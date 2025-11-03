@@ -61,6 +61,8 @@ desktop.ini
 coverage/
 .nyc_output/
 *.lcov
+junit.xml
+test-results/
 
 # Temporários
 *.tmp
